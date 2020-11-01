@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+{
+    "Subject":"Catholic",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7367/mod_resource/content/2/146-156.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7366/mod_resource/content/2/104-145.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7365/mod_resource/content/1/71-103.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7364/mod_resource/content/2/44-70.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7363/mod_resource/content/2/1-43.pdf"
+    }
+=======
+{
+    "Subject":"Catholic",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7367/mod_resource/content/2/146-156.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7366/mod_resource/content/2/104-145.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7365/mod_resource/content/1/71-103.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7364/mod_resource/content/2/44-70.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7363/mod_resource/content/2/1-43.pdf"
+    }
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1
+}

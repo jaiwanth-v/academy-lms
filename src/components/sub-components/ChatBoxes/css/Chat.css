@@ -1,0 +1,224 @@
+.chat-area {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.send-area {
+  height: 55px;
+  bottom: 8px;
+  margin-left: 10px;
+  width: 100% !important;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 0;
+}
+
+input#message {
+  outline: none;
+  border: none !important;
+  padding: 20px !important;
+  background-color: #212327;
+  color: white;
+  width: 85%;
+  height: 55px !important;
+  resize: none;
+  border-radius: 50px !important;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+.sendBtn {
+  width: 50px;
+  height: 85%;
+  border-radius: 50px;
+  background-color: #212327;
+  border: none;
+  color: #00b074;
+  font-size: 1.5em;
+  padding: 25px;
+  transition: 0.5s ease;
+  display: flex;
+  margin-left: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.sendBtn[type="submit"] {
+  margin-right: 24px;
+}
+
+.sendBtn:hover {
+  transform: rotate(-45deg);
+  /* background-color: #00b074; */
+  box-shadow: inset 0px 0px 0px 50px #00b074;
+  color: #212327;
+}
+
+.sendBtn:active {
+  background-color: #212327;
+}
+
+.swal2-title,
+.swal2-html-container {
+  color: #eee !important;
+}
+.swal2-confirm {
+  background-color: #bb4125 !important;
+  box-shadow: none !important;
+}
+
+.chat {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+  padding-top: 5%;
+}
+
+.msgbox {
+  width: fit-content;
+  /* min-height: 5%; */
+  max-width: 75%;
+  color: #fff;
+  background-color: #212327;
+  padding: 1%;
+  margin: 2%;
+  margin-top: 0;
+  margin-bottom: 1%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.chatIn {
+  border-radius: 0.5em 0.5em 0.5em 0;
+  align-self: flex-start;
+  box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.25);
+}
+
+.chatOut {
+  border-radius: 0.5em 0.5em 0em 0.5em;
+  align-self: flex-end;
+  box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.25);
+  /* justify-content: flex-end; */
+}
+
+.chatSender {
+  font-weight: 500;
+  font-size: 0.75em;
+}
+.chatBotName {
+  font-weight: 500;
+  font-size: 0.8em;
+}
+.chatBotTitle {
+  font-weight: 500;
+  font-size: 1.1em;
+}
+
+.message {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-size: 1em;
+  text-align: left;
+}
+
+.timeStamp {
+  font-weight: 300;
+  font-size: 0.75em;
+}
+
+.timeStampOut {
+  font-weight: 300;
+  font-size: 0.75em;
+  align-self: flex-end;
+}
+
+::-webkit-scrollbar {
+  width: 3px; /* Remove scrollbar space */
+  background: #161819; /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+  background: #00b074;
+}
+
+.emojiPanel {
+  position: absolute;
+  bottom: 12.5%;
+  right: 5%;
+}
+
+.popup,
+#popup-root,
+.popup-content {
+  all: revert !important;
+}
+
+aside.emoji-picker-react {
+  box-shadow: none !important;
+  border: 2px solid #00b074 !important;
+}
+
+nav {
+  background-color: #00b074;
+}
+
+.emoji-group {
+  background-color: #212327;
+}
+
+.emoji-search {
+  background-color: #212327 !important;
+}
+
+.emoji-group::before {
+  background-color: #212327 !important;
+  font-family: "Ubuntu";
+  color: #00b074 !important;
+  font-weight: 500 !important;
+}
+
+path {
+  /* background-color: #00b074; */
+  display: none;
+}
+
+@media only screen and (max-width: 1175px) {
+  input#message {
+    box-shadow: none !important;
+  }
+  .chatRouteArea {
+    overflow-y: hidden;
+  }
+  .chat-area {
+    height: calc(100% - 60px);
+  }
+
+  .send-area {
+    position: fixed;
+    left: 0;
+    bottom: 8px;
+    width: 100% !important;
+    align-items: center;
+    overflow: hidden;
+  }
+  .sendBtn {
+    width: 50px;
+    height: 75%;
+  }
+  /* #message {
+    width: 75%;
+    height: 75%;
+    padding: 2%;
+  } */
+  .msgbox {
+    display: flex;
+    min-width: 25%;
+    padding: 12px 12px 12px 12px;
+  }
+}

@@ -1,0 +1,66 @@
+<<<<<<< HEAD
+{
+    "Subject":"Catholic",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 25" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49708/mod_resource/content/1/SG9_Cath_Chap25.pdf",
+              "Chapter 24" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49701/mod_resource/content/1/SG9_Cath_Chap24.pdf",
+              "Chapter 23" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49697/mod_resource/content/1/SG9_Cath_Chap23.pdf",
+              "Chapter 22" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49696/mod_resource/content/1/SG9_Cath_Chap22.pdf",
+              "Chapter 21" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49695/mod_resource/content/1/SG9_Cath_Chap21.pdf",
+              "Chapter 20" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49694/mod_resource/content/1/SG9_Cath_Chap20.pdf",
+              "Chapter 19" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49692/mod_resource/content/1/SG9_Cath_Chap19.pdf",
+              "Chapter 18" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49691/mod_resource/content/1/SG9_Cath_Chap18.pdf",
+              "Chapter 17" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49687/mod_resource/content/1/SG9_Cath_Chap17.pdf",
+              "Chapter 16" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49686/mod_resource/content/1/SG9_Cath_Chap16.pdf",
+              "Chapter 15" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49684/mod_resource/content/1/SG9_Cath_Chap15.pdf",
+              "Chapter 14" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49681/mod_resource/content/1/SG9_Cath_Chap14.pdf",
+              "Chapter 13" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49672/mod_resource/content/1/SG9_Cath_Chap13.pdf",
+              "Chapter 12" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49659/mod_resource/content/1/SG9_Cath_Chap12.pdf",
+              "Chapter 11" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49657/mod_resource/content/1/SG9_Cath_Chap11.pdf",
+              "Chapter 10" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49655/mod_resource/content/1/SG9_Cath_Chap10.pdf",
+              "Chapter 9" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49652/mod_resource/content/1/SG9_Cath_Chap9.pdf",
+              "Chapter 8" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49651/mod_resource/content/1/SG9_Cath_Chap8.pdf",
+              "Chapter 7" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49650/mod_resource/content/1/SG9_Cath_Chap7.pdf",
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49649/mod_resource/content/1/SG9_Cath_Chap6.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49648/mod_resource/content/1/SG9_Cath_Chap5.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49647/mod_resource/content/1/SG9_Cath_Chap4.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49646/mod_resource/content/1/SG9_Cath_Chap3.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49645/mod_resource/content/2/SG9_Cath_Chap2.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49644/mod_resource/content/1/SG9_Cath_Chap1.pdf"
+    }
+=======
+{
+    "Subject":"Catholic",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 25" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49708/mod_resource/content/1/SG9_Cath_Chap25.pdf",
+              "Chapter 24" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49701/mod_resource/content/1/SG9_Cath_Chap24.pdf",
+              "Chapter 23" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49697/mod_resource/content/1/SG9_Cath_Chap23.pdf",
+              "Chapter 22" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49696/mod_resource/content/1/SG9_Cath_Chap22.pdf",
+              "Chapter 21" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49695/mod_resource/content/1/SG9_Cath_Chap21.pdf",
+              "Chapter 20" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49694/mod_resource/content/1/SG9_Cath_Chap20.pdf",
+              "Chapter 19" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49692/mod_resource/content/1/SG9_Cath_Chap19.pdf",
+              "Chapter 18" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49691/mod_resource/content/1/SG9_Cath_Chap18.pdf",
+              "Chapter 17" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49687/mod_resource/content/1/SG9_Cath_Chap17.pdf",
+              "Chapter 16" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49686/mod_resource/content/1/SG9_Cath_Chap16.pdf",
+              "Chapter 15" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49684/mod_resource/content/1/SG9_Cath_Chap15.pdf",
+              "Chapter 14" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49681/mod_resource/content/1/SG9_Cath_Chap14.pdf",
+              "Chapter 13" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49672/mod_resource/content/1/SG9_Cath_Chap13.pdf",
+              "Chapter 12" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49659/mod_resource/content/1/SG9_Cath_Chap12.pdf",
+              "Chapter 11" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49657/mod_resource/content/1/SG9_Cath_Chap11.pdf",
+              "Chapter 10" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49655/mod_resource/content/1/SG9_Cath_Chap10.pdf",
+              "Chapter 9" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49652/mod_resource/content/1/SG9_Cath_Chap9.pdf",
+              "Chapter 8" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49651/mod_resource/content/1/SG9_Cath_Chap8.pdf",
+              "Chapter 7" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49650/mod_resource/content/1/SG9_Cath_Chap7.pdf",
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49649/mod_resource/content/1/SG9_Cath_Chap6.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49648/mod_resource/content/1/SG9_Cath_Chap5.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49647/mod_resource/content/1/SG9_Cath_Chap4.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49646/mod_resource/content/1/SG9_Cath_Chap3.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49645/mod_resource/content/2/SG9_Cath_Chap2.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49644/mod_resource/content/1/SG9_Cath_Chap1.pdf"
+    }
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1
+}

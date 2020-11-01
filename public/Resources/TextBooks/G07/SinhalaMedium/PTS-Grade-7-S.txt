@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/5919/mod_resource/content/2/Chapter%201.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/5920/mod_resource/content/2/Chapter%202.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/5921/mod_resource/content/2/Chapter%203.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/5922/mod_resource/content/2/Chapter%204.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/5923/mod_resource/content/2/Chapter%205.pdf
+=======
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/5919/mod_resource/content/2/Chapter%201.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/5920/mod_resource/content/2/Chapter%202.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/5921/mod_resource/content/2/Chapter%203.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/5922/mod_resource/content/2/Chapter%204.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/5923/mod_resource/content/2/Chapter%205.pdf
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1

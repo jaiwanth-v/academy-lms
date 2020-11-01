@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+{
+    "Subject":"History",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49041/mod_resource/content/1/sg9_his_chap6.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49029/mod_resource/content/1/sg9_his_chap5.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49032/mod_resource/content/2/sg9_his_chap4.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49024/mod_resource/content/1/sg9_his_chap3.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49023/mod_resource/content/1/sg9_his_chap2.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49017/mod_resource/content/1/sg9_his_chap1.pdf"
+    }
+=======
+{
+    "Subject":"History",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49041/mod_resource/content/1/sg9_his_chap6.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49029/mod_resource/content/1/sg9_his_chap5.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49032/mod_resource/content/2/sg9_his_chap4.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49024/mod_resource/content/1/sg9_his_chap3.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49023/mod_resource/content/1/sg9_his_chap2.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49017/mod_resource/content/1/sg9_his_chap1.pdf"
+    }
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1
+}

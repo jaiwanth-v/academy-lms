@@ -1,0 +1,132 @@
+.routeAreaPadding{
+padding: 2.5%;
+}
+
+.textBookArea{
+    width: 100%;
+    height: 100%;
+    padding: 5%;
+    background-color: #212327;
+    border-radius: 1em;
+    box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.25);
+}
+
+.TextBooks{
+    font-size: 1.5em;
+}
+
+.mediumAreas{
+    width: 100%;
+    height: 100%;
+    /* background-color: #212327; */
+    padding: 1% 0 0 2.5%;
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    font-family: 'Ubuntu';
+}
+
+.EM,.SM,.TM{
+    width: 33.33%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.subject{
+    width: fit-content;
+    height: 6%;
+    font-size: 1em;
+    padding: 3%;
+    transition: 0.5s;
+    display: flex;
+    align-items: center;
+}
+
+.subject:hover{
+    transform: scale(1.05);
+    /* background-color: #161819; */
+    box-shadow: inset 0px 0px 0px 1px #00b074;
+    color: #00b074;
+    border-radius: 1em;
+}
+
+.book-overlay{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   background-color: #161819be; 
+   left: 0;
+   top: 0;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.book-close{
+    position: absolute;
+    color: white;
+    right: 5%;
+    top: 10%;
+    transition: 0.25s;
+}
+.book-close:hover{
+    transform: scale(1.25) rotate(-90deg) !important;
+    color: #00b074;
+    /* transform: rotate(-90deg); */
+}
+
+.book-set{
+    width: 80%;
+    height: 80%;
+    background-color: #212327;
+    border-radius: 1em;
+    padding: 2.5%;
+    z-index: 100;
+    border: 2px solid #00b074;
+}
+
+.book{
+    color: #fff;
+    padding: 5%;
+}
+
+.chapterList{
+    display: flex;
+    flex-direction: column-reverse;
+    /* padding-left: 5%; */
+    flex-wrap: wrap-reverse;
+    width: 100%;
+    height: 80%;
+    padding-top: 5%;
+    align-content: flex-end;
+}
+
+.chapter{
+    flex: 1 0 5%;
+    background-color: #212327;
+    width: fit-content;
+    height: 50px;
+    border-radius: 1em;
+    padding:0.65%;
+    margin: 2%;
+    font-family: 'Ubuntu';
+    color: #00b074;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    transition: 0.5s;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+}
+
+.chapter:hover{
+    transform: scale(1.1);
+    /* border: 2px solid #00b074; */
+    /* border: 20px solid black; */
+    box-shadow: inset 0px 0px 0px 2px #00b074;
+    box-sizing: border-box;  /* align-self: start; */
+}

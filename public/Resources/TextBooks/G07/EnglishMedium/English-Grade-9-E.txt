@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26016/mod_resource/content/1/chapter%20%203.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26015/mod_resource/content/1/chapter%20%202.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26014/mod_resource/content/1/chapter%20%201.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26017/mod_resource/content/1/chapter%20%204.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26018/mod_resource/content/1/chapter%20%205.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26019/mod_resource/content/1/chapter%20%206.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26020/mod_resource/content/1/chapter%20%207.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26021/mod_resource/content/1/chapter%20%208.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26022/mod_resource/content/1/chapter%20%209.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26023/mod_resource/content/1/chapter%20%2010.pdf
+=======
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26016/mod_resource/content/1/chapter%20%203.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26015/mod_resource/content/1/chapter%20%202.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26014/mod_resource/content/1/chapter%20%201.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26017/mod_resource/content/1/chapter%20%204.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26018/mod_resource/content/1/chapter%20%205.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26019/mod_resource/content/1/chapter%20%206.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26020/mod_resource/content/1/chapter%20%207.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26021/mod_resource/content/1/chapter%20%208.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26022/mod_resource/content/1/chapter%20%209.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/26023/mod_resource/content/1/chapter%20%2010.pdf
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1

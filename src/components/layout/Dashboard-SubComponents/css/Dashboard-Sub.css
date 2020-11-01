@@ -1,0 +1,234 @@
+.db-tab-overview {
+  width: 100%;
+  height: 100%;
+  /* background-color: #161819; */
+}
+
+.db-tab-lessons {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* background-color: #161819; */
+}
+
+.db-tab-lessons-list {
+  /* display: flex;
+    flex-direction: column; */
+  width: 100%;
+  height: 90%;
+}
+
+.lesson-area {
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lesson {
+  width: 97.5%;
+  height: 12.5%;
+  /* background-color: #212327; */
+  border-bottom: 1px solid #00b074be;
+  margin: 1% 1% 2% 1%;
+  display: flex;
+  flex-direction: row;
+  transition: 0.5s;
+  /* box-sizing: border-box; */
+}
+
+.lesson-data {
+  display: flex;
+  flex-direction: column;
+  width: 92.5%;
+  height: 100%;
+}
+.note-data {
+  display: flex;
+  flex-direction: column;
+  width: 85%;
+  height: 100%;
+}
+
+.lesson-summary-title {
+  font-family: "Ubuntu";
+  color: #fff;
+  font-size: 1.1em;
+}
+.lesson-summary-author {
+  font-family: "Ubuntu";
+  color: rgba(255, 255, 255, 0.726);
+  font-size: 0.9em;
+}
+
+.check-btn {
+  width: 7.5%;
+  height: 95%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  color: #fff !important;
+  font-size: 0.8em;
+  font-family: "Ubuntu";
+  border-left: 1px solid #00b075be;
+}
+
+.chk-btn {
+  color: #fff !important;
+  font-size: 1.9em !important;
+  /* transform: rotate(-45deg); */
+  transition: 0.5s;
+}
+
+.lesson:hover {
+  transform: scale(1.01);
+}
+
+.lesson:hover .chk-btn {
+  transform: scale(1.25);
+  color: #00b074 !important;
+}
+
+.lesson:hover .check-btn {
+  /* transform: rotate(0deg); */
+  color: #00b074 !important;
+}
+
+.chk-btn-title {
+  font-size: 0.75em;
+}
+
+.text-success-cat {
+  background-color: #00b074 !important;
+}
+
+.db-overview-cards {
+  width: 100%;
+  height: 25%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.db-overview-card {
+  width: 32%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: #161819;
+  border-radius: 0.5em;
+  padding: 1%;
+  box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.2);
+}
+
+.db-overview-card-icon {
+  width: 45%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #00b074;
+  border-right: 1px solid rgba(255, 255, 255, 0.068);
+}
+
+.db-card-icon {
+  font-size: 3.9em;
+}
+
+.db-overview-card-data {
+  width: 55%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  color: #fff;
+  font-family: "Ubuntu";
+}
+
+.db-card-data-score {
+  width: 100%;
+  height: 40%;
+  font-size: 2.5em;
+  text-align: center;
+  /* font-weight: 300; */
+}
+.db-card-data-title {
+  width: 100%;
+  height: 20%;
+  font-size: 0.8em;
+  text-align: center;
+  color: #636262;
+}
+
+.data-score-small {
+  font-size: 0.5em;
+  color: #636262;
+  font-weight: 400;
+}
+
+.responsive-navbar {
+  display: none;
+}
+
+@media only screen and (max-width: 1175px) {
+  .dashboard {
+    flex-direction: column-reverse !important;
+    justify-content: space-between !important;
+  }
+  .apps {
+    display: none !important;
+  }
+  .db-overview-cards {
+    flex-direction: column;
+    height: 50%;
+  }
+  .db-overview-cards {
+    flex-direction: column;
+    height: 90%;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .db-overview-card {
+    width: 80%;
+    height: 25%;
+  }
+  .lesson-data {
+    width: 85%;
+  }
+  .lesson-summary-title {
+    font-size: 1em;
+  }
+  .lesson-summary-author {
+    font-size: 0.65em;
+  }
+  .check-btn {
+    width: 15%;
+  }
+  .dashboard-sec-1 {
+    width: 100% !important;
+    height: 82.5% !important;
+  }
+  .dashboard-sec-2 {
+    width: 100% !important;
+    height: 15% !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+  .clock {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+  }
+  .db-tab-title {
+    width: 33.33% !important;
+  }
+  .db-tab {
+    border-radius: 0 0 1em 1em !important;
+  }
+}

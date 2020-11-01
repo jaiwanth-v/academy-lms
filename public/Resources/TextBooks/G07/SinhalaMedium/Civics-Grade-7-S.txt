@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/6618/mod_resource/content/3/citizenship.pdf
+=======
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/6618/mod_resource/content/3/citizenship.pdf
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1

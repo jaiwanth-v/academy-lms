@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38406/mod_resource/content/1/Sg8_Mat_Chapter01.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38407/mod_resource/content/1/Sg8_Mat_Chapter02.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38408/mod_resource/content/1/Sg8_Mat_Chapter03.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38409/mod_resource/content/2/Sg8_Mat_Chapter04.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38410/mod_resource/content/1/Sg8_Mat_Chapter05.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38411/mod_resource/content/1/Sg8_Mat_Chapter06.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38412/mod_resource/content/1/Sg8_Mat_Chapter07.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38413/mod_resource/content/1/Sg8_Mat_Chapter08.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38414/mod_resource/content/1/Sg8_Mat_Chapter09.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38415/mod_resource/content/1/Sg8_Mat_Chapter10.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38416/mod_resource/content/1/Sg8_Mat_Chapter11.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38417/mod_resource/content/1/Sg8_Mat_Chapter12.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38418/mod_resource/content/1/Sg8_Mat_Chapter13.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38419/mod_resource/content/1/Sg8_Mat_Chapter14.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38885/mod_resource/content/1/Sg8_Mat_Chapter15.pdf
+=======
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38406/mod_resource/content/1/Sg8_Mat_Chapter01.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38407/mod_resource/content/1/Sg8_Mat_Chapter02.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38408/mod_resource/content/1/Sg8_Mat_Chapter03.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38409/mod_resource/content/2/Sg8_Mat_Chapter04.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38410/mod_resource/content/1/Sg8_Mat_Chapter05.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38411/mod_resource/content/1/Sg8_Mat_Chapter06.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38412/mod_resource/content/1/Sg8_Mat_Chapter07.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38413/mod_resource/content/1/Sg8_Mat_Chapter08.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38414/mod_resource/content/1/Sg8_Mat_Chapter09.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38415/mod_resource/content/1/Sg8_Mat_Chapter10.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38416/mod_resource/content/1/Sg8_Mat_Chapter11.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38417/mod_resource/content/1/Sg8_Mat_Chapter12.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38418/mod_resource/content/1/Sg8_Mat_Chapter13.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38419/mod_resource/content/1/Sg8_Mat_Chapter14.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38885/mod_resource/content/1/Sg8_Mat_Chapter15.pdf
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1

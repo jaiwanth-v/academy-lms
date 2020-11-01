@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38641/mod_resource/content/1/Eg8_Sci_Chapter01.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38642/mod_resource/content/1/Eg8_Sci_Chapter02.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38643/mod_resource/content/1/Eg8_Sci_Chapter03.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38644/mod_resource/content/1/Eg8_Sci_Chapter04.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38645/mod_resource/content/1/Eg8_Sci_Chapter05.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38646/mod_resource/content/1/Eg8_Sci_Chapter06.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38647/mod_resource/content/1/Eg8_Sci_Chapter07.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38648/mod_resource/content/1/Eg8_Sci_Chapter08.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38649/mod_resource/content/1/Eg8_Sci_Chapter09.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38650/mod_resource/content/1/Eg8_Sci_Chapter10.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38651/mod_resource/content/1/Eg8_Sci_Chapter11.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38652/mod_resource/content/1/Eg8_Sci_Chapter12.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38653/mod_resource/content/1/Eg8_Sci_Chapter13.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38654/mod_resource/content/1/Eg8_Sci_Chapter14.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38655/mod_resource/content/1/Eg8_Sci_Chapter15.pdf
+=======
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38641/mod_resource/content/1/Eg8_Sci_Chapter01.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38642/mod_resource/content/1/Eg8_Sci_Chapter02.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38643/mod_resource/content/1/Eg8_Sci_Chapter03.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38644/mod_resource/content/1/Eg8_Sci_Chapter04.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38645/mod_resource/content/1/Eg8_Sci_Chapter05.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38646/mod_resource/content/1/Eg8_Sci_Chapter06.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38647/mod_resource/content/1/Eg8_Sci_Chapter07.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38648/mod_resource/content/1/Eg8_Sci_Chapter08.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38649/mod_resource/content/1/Eg8_Sci_Chapter09.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38650/mod_resource/content/1/Eg8_Sci_Chapter10.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38651/mod_resource/content/1/Eg8_Sci_Chapter11.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38652/mod_resource/content/1/Eg8_Sci_Chapter12.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38653/mod_resource/content/1/Eg8_Sci_Chapter13.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38654/mod_resource/content/1/Eg8_Sci_Chapter14.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38655/mod_resource/content/1/Eg8_Sci_Chapter15.pdf
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1

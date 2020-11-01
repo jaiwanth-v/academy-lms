@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+{
+    "Subject":"Civics",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49176/mod_resource/content/1/Sg9_Lif_Chap6.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49175/mod_resource/content/1/Sg9_Lif_Chap5.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49174/mod_resource/content/1/Sg9_Lif_Chap4.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49173/mod_resource/content/1/Sg9_Lif_Chap3.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49172/mod_resource/content/2/Sg9_Lif_Chap2.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49171/mod_resource/content/1/Sg9_Lif_Chap1.pdf"
+    }
+=======
+{
+    "Subject":"Civics",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49176/mod_resource/content/1/Sg9_Lif_Chap6.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49175/mod_resource/content/1/Sg9_Lif_Chap5.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49174/mod_resource/content/1/Sg9_Lif_Chap4.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49173/mod_resource/content/1/Sg9_Lif_Chap3.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49172/mod_resource/content/2/Sg9_Lif_Chap2.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49171/mod_resource/content/1/Sg9_Lif_Chap1.pdf"
+    }
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1
+}

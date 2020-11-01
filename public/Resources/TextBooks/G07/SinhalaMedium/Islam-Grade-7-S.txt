@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/6983/mod_resource/content/1/Chap%202_Islam%207%20new.pdf
+=======
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/6983/mod_resource/content/1/Chap%202_Islam%207%20new.pdf
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1

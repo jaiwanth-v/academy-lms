@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38602/mod_resource/content/1/Eg8_Civi_Chapter01.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38603/mod_resource/content/1/Eg8_Civi_Chapter02.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38604/mod_resource/content/1/Eg8_Civi_Chapter03.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38605/mod_resource/content/1/Eg8_Civi_Chapter04.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38606/mod_resource/content/1/Eg8_Civi_Chapter05.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38607/mod_resource/content/1/Eg8_Civi_Chapter06.pdf
+=======
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38602/mod_resource/content/1/Eg8_Civi_Chapter01.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38603/mod_resource/content/1/Eg8_Civi_Chapter02.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38604/mod_resource/content/1/Eg8_Civi_Chapter03.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38605/mod_resource/content/1/Eg8_Civi_Chapter04.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38606/mod_resource/content/1/Eg8_Civi_Chapter05.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38607/mod_resource/content/1/Eg8_Civi_Chapter06.pdf
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1

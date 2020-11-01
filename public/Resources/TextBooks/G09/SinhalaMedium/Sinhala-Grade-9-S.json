@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+{
+    "Subject":"Sinhala Language and Literature",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 20" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22561/mod_resource/content/1/chapter%2020.pdf",
+              "Chapter 19" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22560/mod_resource/content/1/chapter%2019.pdf",
+              "Chapter 18" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22559/mod_resource/content/1/chapter%2018.pdf",
+              "Chapter 17" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22558/mod_resource/content/1/chapter%2017.pdf",
+              "Chapter 16" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22557/mod_resource/content/1/chapter%2016.pdf",
+              "Chapter 15" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22556/mod_resource/content/1/chapter%2015.pdf",
+              "Chapter 14" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22555/mod_resource/content/1/chapter%2014.pdf",
+              "Chapter 13" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22554/mod_resource/content/1/chapter%2013.pdf",
+              "Chapter 12" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22553/mod_resource/content/1/chapter%2012.pdf",
+              "Chapter 11" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22552/mod_resource/content/1/chapter%2011.pdf",
+              "Chapter 10" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22551/mod_resource/content/1/chapter%2010.pdf",
+              "Chapter 9" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22583/mod_resource/content/1/chapter%209.pdf",
+              "Chapter 8" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22550/mod_resource/content/1/chapter%208.pdf",
+              "Chapter 7" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22549/mod_resource/content/1/chapter%207.pdf",
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22548/mod_resource/content/1/chapter%206.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22545/mod_resource/content/1/chapter%205.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22547/mod_resource/content/1/chapter%204.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22544/mod_resource/content/1/chapter%203.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22542/mod_resource/content/1/chapter%202.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22543/mod_resource/content/1/chapter%201.pdf"
+    }
+=======
+{
+    "Subject":"Sinhala Language and Literature",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 20" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22561/mod_resource/content/1/chapter%2020.pdf",
+              "Chapter 19" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22560/mod_resource/content/1/chapter%2019.pdf",
+              "Chapter 18" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22559/mod_resource/content/1/chapter%2018.pdf",
+              "Chapter 17" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22558/mod_resource/content/1/chapter%2017.pdf",
+              "Chapter 16" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22557/mod_resource/content/1/chapter%2016.pdf",
+              "Chapter 15" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22556/mod_resource/content/1/chapter%2015.pdf",
+              "Chapter 14" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22555/mod_resource/content/1/chapter%2014.pdf",
+              "Chapter 13" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22554/mod_resource/content/1/chapter%2013.pdf",
+              "Chapter 12" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22553/mod_resource/content/1/chapter%2012.pdf",
+              "Chapter 11" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22552/mod_resource/content/1/chapter%2011.pdf",
+              "Chapter 10" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22551/mod_resource/content/1/chapter%2010.pdf",
+              "Chapter 9" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22583/mod_resource/content/1/chapter%209.pdf",
+              "Chapter 8" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22550/mod_resource/content/1/chapter%208.pdf",
+              "Chapter 7" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22549/mod_resource/content/1/chapter%207.pdf",
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22548/mod_resource/content/1/chapter%206.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22545/mod_resource/content/1/chapter%205.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22547/mod_resource/content/1/chapter%204.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22544/mod_resource/content/1/chapter%203.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22542/mod_resource/content/1/chapter%202.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22543/mod_resource/content/1/chapter%201.pdf"
+    }
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1
+}

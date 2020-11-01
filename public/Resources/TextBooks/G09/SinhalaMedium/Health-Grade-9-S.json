@@ -1,0 +1,58 @@
+<<<<<<< HEAD
+{
+    "Subject":"Health and Physical Education",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 21" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49165/mod_resource/content/1/Sg9_Hel_Chap21.pdf",
+              "Chapter 20" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49164/mod_resource/content/1/Sg9_Hel_Chap20.pdf",
+              "Chapter 19" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49163/mod_resource/content/1/Sg9_Hel_Chap19.pdf",
+              "Chapter 18" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49162/mod_resource/content/1/Sg9_Hel_Chap18.pdf",
+              "Chapter 17" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49161/mod_resource/content/1/Sg9_Hel_Chap17.pdf",
+              "Chapter 16" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49160/mod_resource/content/1/Sg9_Hel_Chap16.pdf",
+              "Chapter 15" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49159/mod_resource/content/1/Sg9_Hel_Chap15.pdf",
+              "Chapter 14" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49158/mod_resource/content/1/Sg9_Hel_Chap14.pdf",
+              "Chapter 13" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49157/mod_resource/content/1/Sg9_Hel_Chap13.pdf",
+              "Chapter 12" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49156/mod_resource/content/1/Sg9_Hel_Chap12.pdf",
+              "Chapter 11" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49155/mod_resource/content/1/Sg9_Hel_Chap11.pdf",
+              "Chapter 10" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49154/mod_resource/content/2/Sg9_Hel_Chap10.pdf",
+              "Chapter 9" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49153/mod_resource/content/1/Sg9_Hel_Chap9.pdf",
+              "Chapter 8" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49152/mod_resource/content/1/Sg9_Hel_Chap8.pdf",
+              "Chapter 7" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49151/mod_resource/content/1/Sg9_Hel_Chap7.pdf",
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49150/mod_resource/content/1/Sg9_Hel_Chap6.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49149/mod_resource/content/1/Sg9_Hel_Chap5.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49148/mod_resource/content/1/Sg9_Hel_Chap4.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49147/mod_resource/content/1/Sg9_Hel_Chap3.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49146/mod_resource/content/1/Sg9_Hel_Chap2.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49145/mod_resource/content/1/Sg9_Hel_Chap1.pdf"
+    }
+=======
+{
+    "Subject":"Health and Physical Education",
+    "Grade":"Grade 9",
+    "Medium": "Sinhala",
+    "Chapters": {
+              "Chapter 21" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49165/mod_resource/content/1/Sg9_Hel_Chap21.pdf",
+              "Chapter 20" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49164/mod_resource/content/1/Sg9_Hel_Chap20.pdf",
+              "Chapter 19" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49163/mod_resource/content/1/Sg9_Hel_Chap19.pdf",
+              "Chapter 18" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49162/mod_resource/content/1/Sg9_Hel_Chap18.pdf",
+              "Chapter 17" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49161/mod_resource/content/1/Sg9_Hel_Chap17.pdf",
+              "Chapter 16" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49160/mod_resource/content/1/Sg9_Hel_Chap16.pdf",
+              "Chapter 15" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49159/mod_resource/content/1/Sg9_Hel_Chap15.pdf",
+              "Chapter 14" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49158/mod_resource/content/1/Sg9_Hel_Chap14.pdf",
+              "Chapter 13" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49157/mod_resource/content/1/Sg9_Hel_Chap13.pdf",
+              "Chapter 12" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49156/mod_resource/content/1/Sg9_Hel_Chap12.pdf",
+              "Chapter 11" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49155/mod_resource/content/1/Sg9_Hel_Chap11.pdf",
+              "Chapter 10" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49154/mod_resource/content/2/Sg9_Hel_Chap10.pdf",
+              "Chapter 9" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49153/mod_resource/content/1/Sg9_Hel_Chap9.pdf",
+              "Chapter 8" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49152/mod_resource/content/1/Sg9_Hel_Chap8.pdf",
+              "Chapter 7" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49151/mod_resource/content/1/Sg9_Hel_Chap7.pdf",
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49150/mod_resource/content/1/Sg9_Hel_Chap6.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49149/mod_resource/content/1/Sg9_Hel_Chap5.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49148/mod_resource/content/1/Sg9_Hel_Chap4.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49147/mod_resource/content/1/Sg9_Hel_Chap3.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49146/mod_resource/content/1/Sg9_Hel_Chap2.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/49145/mod_resource/content/1/Sg9_Hel_Chap1.pdf"
+    }
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1
+}

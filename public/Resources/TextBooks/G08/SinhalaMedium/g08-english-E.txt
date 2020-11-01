@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38726/mod_resource/content/1/Eg8_Eng_Chapter01.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38727/mod_resource/content/1/Eg8_Eng_Chapter02.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38728/mod_resource/content/1/Eg8_Eng_Chapter03.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38729/mod_resource/content/1/Eg8_Eng_Chapter04.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38730/mod_resource/content/1/Eg8_Eng_Chapter05.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38731/mod_resource/content/1/Eg8_Eng_Chapter06.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38732/mod_resource/content/1/Eg8_Eng_Chapter07.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38733/mod_resource/content/1/Eg8_Eng_Chapter08.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38734/mod_resource/content/1/Eg8_Eng_Chapter09.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38735/mod_resource/content/1/Eg8_Eng_Chapter10.pdf
+=======
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38726/mod_resource/content/1/Eg8_Eng_Chapter01.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38727/mod_resource/content/1/Eg8_Eng_Chapter02.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38728/mod_resource/content/1/Eg8_Eng_Chapter03.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38729/mod_resource/content/1/Eg8_Eng_Chapter04.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38730/mod_resource/content/1/Eg8_Eng_Chapter05.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38731/mod_resource/content/1/Eg8_Eng_Chapter06.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38732/mod_resource/content/1/Eg8_Eng_Chapter07.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38733/mod_resource/content/1/Eg8_Eng_Chapter08.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38734/mod_resource/content/1/Eg8_Eng_Chapter09.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/38735/mod_resource/content/1/Eg8_Eng_Chapter10.pdf
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1

@@ -1,0 +1,121 @@
+.profileSec {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.profile-section {
+  width: 100%;
+  height: 100%;
+  background-color: #212327;
+  border-radius: 1em;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-set-information {
+  width: 100%;
+  height: 450px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid #00b074;
+}
+
+.profile-update-information {
+  width: 100%;
+  display: flex;
+  margin: 20px;
+}
+
+.profile-set-icon {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #00b074;
+  border: 5px solid #028157;
+  color: white;
+  font-family: "Ubuntu";
+  font-size: 5em;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  transition: 0.5s;
+}
+
+.profile-set-data {
+  flex-grow: 1;
+  margin-left: 50px;
+  font-family: "Ubuntu";
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.profile-set-data-Name {
+  color: #fff;
+  font-size: 2em;
+}
+
+.profile-set-data-Email {
+  color: #fff;
+  font-size: 1em;
+}
+
+.profile-set-data-Grade {
+  color: #fff;
+  font-size: 1em;
+}
+
+.email-text {
+  color: #00b074;
+}
+
+.signOut-btn {
+  margin-top: 20px;
+  width: 100px;
+  height: 50px;
+  background-color: #00b074;
+  font-family: "Ubuntu", sans-serif;
+  border: none;
+  color: #fff;
+  transition: 0.2s;
+}
+
+.signOut-btn:hover {
+  background-color: #212327;
+  font-family: "Ubuntu", sans-serif;
+  border: 2px solid #00b074;
+}
+@media only screen and (max-width: 1175px) {
+  .profile-set-information {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 400px;
+    margin: 20px;
+  }
+  .profile-set-icon {
+    font-size: 3em;
+    border: none;
+  }
+  .profile-set-data {
+    width: 100%;
+    margin-left: unset;
+    align-items: center;
+    padding: 0;
+  }
+  .profile-set-data-Name {
+    font-size: 1.5em;
+  }
+  .signOut-btn {
+    width: 30%;
+    height: 20%;
+  }
+}

@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7042/mod_resource/content/3/c1.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7051/mod_resource/content/2/c10.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7052/mod_resource/content/2/c11.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7053/mod_resource/content/2/c12.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7043/mod_resource/content/2/c2.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7044/mod_resource/content/2/c3.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7045/mod_resource/content/2/c4.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7046/mod_resource/content/2/c5.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7047/mod_resource/content/2/c6.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7048/mod_resource/content/2/c7.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7049/mod_resource/content/2/c8.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7050/mod_resource/content/2/c9.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/50009/mod_resource/content/1/SG8_Se.Lan.Tamil_Chap13.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/50011/mod_resource/content/1/SG8_Se.Lan.Tamil_Chap14.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/50012/mod_resource/content/1/SG8_Se.Lan.Tamil_Chap15.pdf
+=======
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7042/mod_resource/content/3/c1.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7051/mod_resource/content/2/c10.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7052/mod_resource/content/2/c11.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7053/mod_resource/content/2/c12.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7043/mod_resource/content/2/c2.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7044/mod_resource/content/2/c3.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7045/mod_resource/content/2/c4.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7046/mod_resource/content/2/c5.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7047/mod_resource/content/2/c6.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7048/mod_resource/content/2/c7.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7049/mod_resource/content/2/c8.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/7050/mod_resource/content/2/c9.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/50009/mod_resource/content/1/SG8_Se.Lan.Tamil_Chap13.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/50011/mod_resource/content/1/SG8_Se.Lan.Tamil_Chap14.pdf
+http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/50012/mod_resource/content/1/SG8_Se.Lan.Tamil_Chap15.pdf
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1

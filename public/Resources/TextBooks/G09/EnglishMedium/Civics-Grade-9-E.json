@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+{
+    "Subject":"Civics",
+    "Grade":"Grade 9",
+    "Medium": "English",
+    "Chapters": {
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22654/mod_resource/content/2/EG9_TB_Civi_Chap6.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22652/mod_resource/content/2/EG9_TB_Civi_Chap5.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22653/mod_resource/content/2/EG9_TB_Civi_Chap4.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22651/mod_resource/content/2/EG9_TB_Civi_Chap3.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22650/mod_resource/content/2/EG9_TB_Civi_Chap2.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22649/mod_resource/content/2/EG9_TB_Civi_Chap1.pdf"
+    }
+=======
+{
+    "Subject":"Civics",
+    "Grade":"Grade 9",
+    "Medium": "English",
+    "Chapters": {
+              "Chapter 6" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22654/mod_resource/content/2/EG9_TB_Civi_Chap6.pdf",
+              "Chapter 5" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22652/mod_resource/content/2/EG9_TB_Civi_Chap5.pdf",
+              "Chapter 4" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22653/mod_resource/content/2/EG9_TB_Civi_Chap4.pdf",
+              "Chapter 3" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22651/mod_resource/content/2/EG9_TB_Civi_Chap3.pdf",
+              "Chapter 2" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22650/mod_resource/content/2/EG9_TB_Civi_Chap2.pdf",
+              "Chapter 1" : "http://www.e-thaksalawa.moe.gov.lk/moodle/pluginfile.php/22649/mod_resource/content/2/EG9_TB_Civi_Chap1.pdf"
+    }
+>>>>>>> 50c53a4bf41f369b7dee8cc10db1882a873922a1
+}

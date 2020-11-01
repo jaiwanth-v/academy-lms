@@ -1,0 +1,348 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+
+.sidebar {
+  height: 100%;
+  width: 300px !important;
+  background-color: #1f2125;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 0 1em 1em 0;
+  box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.25);
+}
+
+.routeArea {
+  width: calc(100vw - 300px);
+  height: calc(100% - 64px);
+}
+
+.profile-icon {
+  width: 35px;
+  height: 35px;
+  background-color: #00b074;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.profile-name {
+  font-size: 1em;
+}
+.profile-title {
+  font-size: 0.8em;
+  color: #717276 !important;
+}
+
+.nav-topic {
+  color: #717276 !important;
+  align-self: flex-start;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 0.9em;
+  margin-left: 15%;
+}
+
+.nav-link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* justify-content: space-between; */
+  width: 85%;
+  margin: 15px 0;
+  /* background-color: teal; */
+  padding: 15px;
+  border-radius: 0.3em;
+  transition: 0.25s;
+}
+
+.nav-link-topic {
+  margin-left: 10%;
+}
+
+.nav-link:hover {
+  background-color: #00b074;
+}
+
+.nav-link:hover > .nav-icon {
+  color: #fff !important;
+}
+.nav-link:hover > .nav-link-topic {
+  color: #fff !important;
+}
+
+.nav-link--active {
+  /* border-bottom: 3px solid #00b074; */
+  background-color: #00b074;
+  color: #fff;
+  /* transition: border-bottom .5s ease-in-out; */
+}
+.nav-link--active div {
+  /* border-bottom: 3px solid #00b074; */
+  color: #fff !important;
+  /* transition: border-bottom .5s ease-in-out; */
+}
+
+.profile {
+  margin-bottom: 10%;
+  margin-top: 0;
+  border-radius: 0;
+  background-color: #212327;
+  width: 100%;
+  height: 12.5%;
+  border-radius: 0 1em 1em 1em;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.profile-data {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.profile:hover {
+  background-color: #212327;
+  transform: translateY(0px);
+}
+
+.nav-link {
+  color: #fff;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.nav-icon {
+  color: #717276 !important;
+  font-size: 1.5em !important;
+}
+
+.more-info-sec {
+  width: 17.5%;
+  height: 12.5%;
+  position: absolute;
+  z-index: 99;
+  background-color: #212327;
+  margin-top: auto;
+  bottom: 0;
+  border-radius: 1em 1em 1em 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #00b074;
+  font-family: "Fredoka One", cursive;
+  font-size: 1.6em;
+}
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  background-color: #212327;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #00b074;
+  font-family: "Fredoka One", cursive;
+  font-size: 3em;
+}
+
+.sidebar a.nav-link {
+  /* background-color: ; */
+}
+
+.dashboard {
+  width: 100%;
+  height: 750px;
+  padding: 3%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.dashboard-sec-1 {
+  width: 72.5%;
+  /* background-color: #212327; */
+  /* border-radius: 1em; */
+}
+
+.dashboard-sec-2 {
+  width: 25%;
+  height: 100%;
+  /* background-color: #212327; */
+  border-radius: 1em;
+}
+
+.apps {
+  width: 100%;
+  height: 45%;
+  /* background-color: #212327; */
+  /* padding-top: 2%; */
+  display: flex;
+  flex-direction: column;
+}
+
+.app-row {
+  width: 100%;
+  height: 50%;
+  /* background-color: #212327; */
+  /* border-radius: 1em; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2.5%;
+}
+
+.app,
+.flippy-container {
+  height: 100%;
+  width: 47.5%;
+  /* background-color: #212327; */
+  border-radius: 1em;
+  box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.25);
+}
+
+.app-front {
+  width: 100% !important;
+  height: 100% !important;
+  background-color: #212327;
+  border-radius: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #00b074;
+}
+
+.app-back {
+  border: 2px solid #00b074;
+  background-color: #212327;
+  border-radius: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-link {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-size {
+  width: 95%;
+  height: auto;
+}
+
+.clock {
+  width: 100%;
+  height: 20%;
+  background-color: #212327;
+  border-radius: 1em;
+  margin-bottom: 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.25);
+}
+
+.displayflex {
+  color: #fff;
+  font-family: "Ubuntu";
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.clock-time {
+  font-size: 2.5em;
+}
+
+.db-sec-1-navbar {
+  width: 100%;
+  height: 7.5%;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.db-tab-title {
+  cursor: pointer;
+  transition: all 0.25s ease;
+  height: 100%;
+  width: 15%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 1em;
+  font-family: "Ubuntu";
+  background-color: #111214;
+  color: #00b074;
+  border-radius: 1em 1em 0 0;
+}
+
+.db-tab--active {
+  /* border-bottom: 2px solid #00b074; */
+  /* box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.25); */
+  background-color: #212327;
+}
+
+.db-tab {
+  width: 100%;
+  height: 100%;
+  background-color: #212327;
+  border-radius: 0 1em 1em 1em;
+  padding: 2.5%;
+}
+@media only screen and (min-width: 1175px) {
+  .responsive-navbar {
+    visibility: hidden;
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width: 1175px) {
+  .sidebar {
+    position: absolute;
+    transform: translateX(-150%);
+    width: 300px;
+    z-index: 999;
+    transition: 0.25s ease-out;
+  }
+  .routeArea {
+    width: 100%;
+    margin-top: 64px;
+    height: calc(100% - 64px);
+  }
+  .rspTitle {
+    width: 100% !important;
+    height: 100% !important;
+    font-size: 2em !important;
+  }
+  .responsive-navbar {
+    justify-content: center;
+    position: fixed;
+    z-index: 998;
+    width: 100%;
+    height: 60px;
+    background-color: #212327;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .rsp-nav-btn {
+    color: #fff;
+    right: 15px;
+    position: absolute;
+    transition: 0.25s;
+  }
+  .more-info-sec {
+    display: none;
+  }
+}
